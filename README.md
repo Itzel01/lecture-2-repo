@@ -6,4 +6,8 @@ This lecture was so much fun!
 
 This content is hard but we got this. 
 
+
+### Trying to make a PR Merge Conflict 
+
 ### Editing the repo from github
+
