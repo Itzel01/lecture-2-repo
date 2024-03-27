@@ -3,5 +3,4 @@
 This is **lecture** number 2. 
 This lecture was so much fun!
 
-
-This content is hard but we got this. 
+ 
